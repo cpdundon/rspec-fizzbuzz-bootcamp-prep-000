@@ -10,9 +10,9 @@ def fizzbuzz(num)
   
   if c_3 && c_5
     return "FizzBuzz"
-  elseif c_3
+  else if c_3
     return "Fizz"
-  elseif c_5
+  else if c_5
     return "Buzz"
   else
     return nil
