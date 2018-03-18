@@ -1,6 +1,6 @@
 def fizzbuzz(num)
-  d_3 = num / 3
-  d_5 = num / 5
+  d_3 = num / 3.0
+  d_5 = num / 5.0
   
   c_3 = (d_3 == d_3.floor)
   c_5 = (d_5 == d_5.floor)
