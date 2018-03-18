@@ -5,9 +5,6 @@ def fizzbuzz(num)
   c_3 = (d_3 == d_3.floor)
   c_5 = (d_5 == d_5.floor)
   
-  puts c_3
-  puts c_5
-  
   if c_3 && c_5
     return "FizzBuzz"
   else if c_3
